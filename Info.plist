@@ -7,9 +7,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.example.template</string>
+	<string>uu.yang.template</string>
 	<key>CFBundleName</key>
-	<string>Example</string>
+	<string>UUtemplate</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -21,16 +21,16 @@
 	<key>IATemplateFooterFile</key>
 	<string>footer</string>
 	<key>IATemplateFooterHeight</key>
-	<integer>90</integer>
+	<integer>316</integer>
 	<key>IATemplateHeaderFile</key>
 	<string>header</string>
 	<key>IATemplateHeaderHeight</key>
-	<integer>90</integer>
+	<integer>110</integer>
 	<key>IATemplateDescription</key>
-	<string>Example template.</string>
+	<string>UU thesis or document template for IA Writer.</string>
 	<key>IATemplateAuthor</key>
-	<string>Example</string>
+	<string>Yukai Yang</string>
 	<key>IATemplateAuthorURL</key>
-	<string>https://example.com</string>
+	<string>yukai-yang.github.io/</string>
 </dict>
 </plist>
